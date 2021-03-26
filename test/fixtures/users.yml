@@ -1,0 +1,7 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+landres:
+  user_id: 34d78656-640a-4095-90b7-39a4e32b98c0
+  username: landres
+  full_name: Leonardo Perez
+  password_digest: $2a$12$qo9cBFLW.PCIJuin9PDOned3veA4EUyrNHTTmxukI7YaJPDCMNHJS

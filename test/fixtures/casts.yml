@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cast_id: 34d78656-640a-4095-90b7-39a4e32b98c0
+  person: MyText
+  interpretation: MyText
+  movie_id: 8282828
+
+two:
+  cast_id: 34d78656-640a-4095-90b7-39a4e32b98c8
+  person: MyText
+  interpretation: MyText
+  movie_id: 8282829
+
+three:
+  cast_id: 34d78656-640a-4095-90b7-39a4e32b98c2
+  person: MyText
+  interpretation: MyText
+  movie_id: 8282828

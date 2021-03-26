@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  movie_id: 8282828
+  title: MyText
+  description: MyText
+  release_date: 2021-03-22
+  duration: 1
+  rate: 1
+  earns: 1
+  image_url: MyText
+
+two:
+  movie_id: 8282829
+  title: MyText
+  description: MyText
+  release_date: 2021-03-22
+  duration: 1
+  rate: 1
+  earns: 1
+  image_url: MyText
